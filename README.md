@@ -1,2 +1,5 @@
 # Scientific-Python
  Final Project for Scientific Python course at CEU in a.y 2019/2020
+
+## Abstract
+This notebook presents a final project for Scientific Python course at the Department of Network and Data Science at CEU in a.y. 2019/2020. In the project, I combine Apple Mobility Trends data with air pollution data from the European Environment Agency to explore and quantify the relationship between the decreased levels of travel, following the spear of COVID-19, and Carbon Monoxide concentration in selected European countries in 2020. The analysis reveals a string degree of the relationship. It is estimated that on average a 1% decrease in mobility leads to 0.37% decrease in air pollution. The presented analysis can be easily extended to include other countries, e.g the United States, as well as other pollutants, e.g. Nitrogen dioxide.
